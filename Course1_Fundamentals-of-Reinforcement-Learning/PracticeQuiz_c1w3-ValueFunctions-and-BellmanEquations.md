@@ -1,1 +1,1 @@
-![PracticeQuiz_c1w3](/images/PracticeQuiz_c1w3.jpg)
+![PracticeQuiz_c1w3](/Course1_Fundamentals-of-Reinforcement-Learning/images/PracticeQuiz_c1w3.jpg)
